@@ -41,7 +41,7 @@ LeaveManagementSystems
 - Total leave days must be greater than 0.
 - Employees can edit or delete only draft requests.
 - Employees can submit only draft requests.
-- Managers can approve or reject only submitted requests.
+- Managers can approve or reject only sumbitted requests.
 - Leave type name is required and must be unique.
 - Default days must be 0 or greater.
 - Inactive or deleted leave types are hidden from request dropdowns.
@@ -128,3 +128,32 @@ LeaveManagementSystems
 - Upcoming Leaves show the leaves that are coming up soon and include only submitted and approved leaves.
 - Pie Chart displays Requests filtered by status, and Bar Chart displays number of requests of each Leave Type.
 - By clicking on the name of the Employee in Recent Requests/Upcoming Leaves, it navigates to the View Details Leave Request Screen.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Dashboard Charts
+![Dashboard Charts](screenshots/Dashboard2.png)
+
+### Leave Requests List - Admin
+![Leave Requests List - Admin](screenshots/LeaveRequestsAdmin.png)
+
+### Leave Requests List - Employee
+![Leave Requests List - Employee](screenshots/LeaveRequestsEmp.png)
+
+### Leave Requests List - Manager
+![Leave Requests List - Manager](screenshots/LeaveRequestsMan.png)
+
+### Leave Types
+![Leave Types](screenshots/LeaveTypes.png)
+
+### New Leave Request
+![New Leave Request](screenshots/NewLeaveRequest.png)
+
+### New Leave Type
+![New Leave Type](screenshots/NewLeaveType.png)
+
+### View Leave Request
+![View Leave Request](screenshots/ViewLeaveRequest.png)

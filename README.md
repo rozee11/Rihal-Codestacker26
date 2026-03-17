@@ -19,7 +19,7 @@ The system includes three roles:
 The solution was built to meet the challenge requirements for entities, relationships, validations, security, and dashboards.
 
 The application can be accessed using the link below:  
-[Leave Management system]([https://your-link-here.com](https://personal-kniwn3ie.outsystemscloud.com/LeaveManagementSystem1/Login))
+[Leave Management system]([https://personal-kniwn3ie.outsystemscloud.com/LeaveManagementSystem1/Login])
 
 ## Demo Credentials
 

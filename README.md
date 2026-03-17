@@ -76,7 +76,7 @@ LeaveManagementSystems
 ## Leave Requests List Screen
 
 ### Employee’s Perspective
-
+![Leave Requests List - Employee](screenshots/LeaveRequestsEmp.png)
 - Can view Request information including Employee, Leave Type, Start Date, End Date and Status.
 - Action buttons include View, Edit, Delete or Submit Request.
 - Can Edit or Delete in Draft Status only.
@@ -86,16 +86,16 @@ LeaveManagementSystems
 - Employees can add new leave requests.
 
 ### Manager’s Perspective
-
+![Leave Requests List - Manager](screenshots/LeaveRequestsMan.png)
 - Manager Can Reject/Approve a Leave Request that is in Submitted Status.
 - Manager can’t see drafts, but can view all other status.
 
 ### Admin’s Perspective
-
+![Leave Requests List - Admin](screenshots/LeaveRequestsAdmin.png)
 - Admin can only view the leave requests including drafts.
 
 ## New/Edit Leave Request Screen
-
+![New Leave Request](screenshots/NewLeaveRequest.png)
 - Only Employees can Create/Edit their own requests.
 - Leave Type, Start Date and End Date are required in the form.
 - Only Active Leave Types can be selected.
@@ -105,55 +105,29 @@ LeaveManagementSystems
 - Start and End Date can’t be on weekends (Friday and Saturday).
 
 ## View Details Leave Request Screen
-
+![View Leave Request](screenshots/ViewLeaveRequest.png)
 - Employees, Manager, and admin can view request details.
 - Can view Employee’s Name, Leave Type, Start Date, End Date, Reason and Request Status.
 
 ## Leave Type List Screen
-
+![Leave Types](screenshots/LeaveTypes.png)
 - Only Admin can create, edit, and delete Leave Types.
 - Can view Leave Type’s Name, Default Days, and Active Status.
 - Action Buttons allow admins to Edit or Delete (Soft delete) the Leave Types.
 - Can Search the Leave Type’s Name.
 
 ## New/Edit Leave Type Screen
-
+![New Leave Type](screenshots/NewLeaveType.png)
 - Name is a required field and must be unique.
 - Default days must be 0 or greater.
 
 ## Dashboard Screen
-
+![Dashboard](screenshots/Dashboard.png)
+![Dashboard Charts](screenshots/Dashboard2.png)
 - Only Admin can access Dashboard Screen.
 - Recent Requests include the most recently created leave request and shows Employee Name, Leave Type, Start Date and its current Status.
 - Upcoming Leaves show the leaves that are coming up soon and include only submitted and approved leaves.
 - Pie Chart displays Requests filtered by status, and Bar Chart displays number of requests of each Leave Type.
 - By clicking on the name of the Employee in Recent Requests/Upcoming Leaves, it navigates to the View Details Leave Request Screen.
 
-## Screenshots
 
-### Dashboard
-![Dashboard](screenshots/Dashboard.png)
-
-### Dashboard Charts
-![Dashboard Charts](screenshots/Dashboard2.png)
-
-### Leave Requests List - Admin
-![Leave Requests List - Admin](screenshots/LeaveRequestsAdmin.png)
-
-### Leave Requests List - Employee
-![Leave Requests List - Employee](screenshots/LeaveRequestsEmp.png)
-
-### Leave Requests List - Manager
-![Leave Requests List - Manager](screenshots/LeaveRequestsMan.png)
-
-### Leave Types
-![Leave Types](screenshots/LeaveTypes.png)
-
-### New Leave Request
-![New Leave Request](screenshots/NewLeaveRequest.png)
-
-### New Leave Type
-![New Leave Type](screenshots/NewLeaveType.png)
-
-### View Leave Request
-![View Leave Request](screenshots/ViewLeaveRequest.png)
